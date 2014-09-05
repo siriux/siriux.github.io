@@ -1,0 +1,12 @@
+# Site settings
+title: Greenentropy
+email: siriux@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My life online.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.greenentropy.com" # the base hostname & protocol for your site
+twitter_username: sheereng
+github_username:  siriux
+
+# Build settings
+markdown: kramdown
