@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/siriux
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.greenentropy.com
+  * I am siriux (https://keybase.io/siriux) on keybase.
+  * I have a public key with fingerprint A7C4 3ABA 2281 32D4 44E8  0B42 B3B3 8E74 DA9F BEA4
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a7c43aba228132d444e80b42b3b38e74da9fbea4",
+            "host": "keybase.io",
+            "key_id": "b3b38e74da9fbea4",
+            "uid": "9eb1dec20d94ef88fdb9eef2ded0cb00",
+            "username": "siriux"
+        },
+        "service": {
+            "hostname": "www.greenentropy.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411569641,
+    "expire_in": 157680000,
+    "prev": "d453e7792fc21241291ebacc837e401b20cf36f8dc9d15d954fdf1a8df24c5f6",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMW4eXNfya35+5Ywnj7wI4khROn6u2qlpPyUSiWraqXsVDCVlpmXnlpU
+UJSZV6JkpZRonmxinJiUaGRkYWhslGJiYpJqYZBkYpRknGRskWpukpJomZaUmmii
+pKOUkV8M0gE0JimxOFUvMx8oBuTEZ6YARbGoLwVLWKYmGaakJhsZpFiapKZZWKSl
+JFmmpqYZpaSmGCQnGRiAFBanFuUl5qYCVRdnFmWWVijV6igBxcoyk1NBLgZZDJUv
+Ly/XSy9KTc1LzSspyi+o1EvOzwWaUFCUX5KfnJ8DVJFRUlJgBTKgpLIArCM1KR5q
+VnxSZl4K0PdADWWpRcWZ+XlKVoZAlcklmSDDDU0MDU3NLM1MDHWUUisKMotS4zNB
+KkzNzSwMgABkTWoZ0MgUE1PjVHNzS6O0ZCNDIxNDI0vD1KTE5GQLY/NUEwPDJCOD
+5DRjszSLlGTLFEPTFEtTk7SUNMNEi5Q0I5Nk0zQzJZDvCvPylaxMgM5MTAf7Oz0v
+saS0KFWplquTcQ4LAyMXAxsrEygCGbg4BWDRuuIbD8OKlAvcLLKcu49y5R15/eTh
+Wb9zzLyXHi+5xDE1dX25mmu4/LRtcis389SltTAXrlyQEV2u6eny5P8ugxc+h+cI
+vDW+9tY+NlOt9O3JwNtf5CXlvff+TxFhqDLULyhY8UHkb9Dll0wubWsqE9bkXFxr
+a+2uK+b+8ss02UrWqJxnzL4mZ6YZHTuUcGpG2q41ExmM5u1f5zJjinzBvQn+Fnde
+c3ov434/fc9H5rCr655rf9/slSIsb5f79pqa16/jplekvPynBG1KtClYz7xkMzNj
+9Ir1yz6+8SqUfFVWtPLp+25/FsmTn9yv/nfq+P/1s+5FF5n0eKbyzhVvqhUX7/nc
+tLDLJvmle2TMmYgZjtvtPPd+2PTI7NgBQQ7JU+sKg9R/2rz/F7Wcp+uQYuTD4D9O
+zu9W7Tu8YPtOgQ2n5nyuW/DWVVKyQu2IyBKLt+f2b/ox2/TB2+xpk18c+tFt+m7l
+7KJf73KsAqSsowO7zZPs3FVnOvzrXXTp5Z9/xvZvtD3e90rPmZhTlOl16jCzOH+F
+uFD7ifK5AA==
+=GJWT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/siriux
+
+==================================================================
+
