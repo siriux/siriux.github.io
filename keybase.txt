@@ -6,18 +6,27 @@ I hereby claim:
 
   * I am an admin of http://www.greenentropy.com
   * I am siriux (https://keybase.io/siriux) on keybase.
-  * I have a public key with fingerprint A7C4 3ABA 2281 32D4 44E8  0B42 B3B3 8E74 DA9F BEA4
+  * I have a public key with fingerprint 0504 8000 CD74 64F8 D024  0696 C4AF CB7B A567 2AC2
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.5"
+        },
         "key": {
-            "fingerprint": "a7c43aba228132d444e80b42b3b38e74da9fbea4",
+            "fingerprint": "05048000cd7464f8d0240696c4afcb7ba5672ac2",
             "host": "keybase.io",
-            "key_id": "b3b38e74da9fbea4",
+            "key_id": "C4AFCB7BA5672AC2",
             "uid": "9eb1dec20d94ef88fdb9eef2ded0cb00",
             "username": "siriux"
+        },
+        "merkle_root": {
+            "ctime": 1432798052,
+            "hash": "ba9e7c7761b2cfcf950e7fa7309af53b25c28c68d1a167eb9f615390ff59fd807bec5ba1367ceef92f0882b98750e7d43570f5366291ac07229cb88d6f22ea41",
+            "seqno": 230705
         },
         "service": {
             "hostname": "www.greenentropy.com",
@@ -26,38 +35,43 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1411569641,
+    "ctime": 1432798188,
     "expire_in": 157680000,
-    "prev": "d453e7792fc21241291ebacc837e401b20cf36f8dc9d15d954fdf1a8df24c5f6",
-    "seqno": 4,
+    "prev": "eaa6eb5b379b8208f8d0b839ff5e0b852b4ffbeec22b23965ad977d9eac34c3c",
+    "seqno": 9,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
 Comment: GPGTools - https://gpgtools.org
 
-owGbwMvMwMW4eXNfya35+5Ywnj7wI4khROn6u2qlpPyUSiWraqXsVDCVlpmXnlpU
-UJSZV6JkpZRonmxinJiUaGRkYWhslGJiYpJqYZBkYpRknGRskWpukpJomZaUmmii
-pKOUkV8M0gE0JimxOFUvMx8oBuTEZ6YARbGoLwVLWKYmGaakJhsZpFiapKZZWKSl
-JFmmpqYZpaSmGCQnGRiAFBanFuUl5qYCVRdnFmWWVijV6igBxcoyk1NBLgZZDJUv
-Ly/XSy9KTc1LzSspyi+o1EvOzwWaUFCUX5KfnJ8DVJFRUlJgBTKgpLIArCM1KR5q
-VnxSZl4K0PdADWWpRcWZ+XlKVoZAlcklmSDDDU0MDU3NLM1MDHWUUisKMotS4zNB
-KkzNzSwMgABkTWoZ0MgUE1PjVHNzS6O0ZCNDIxNDI0vD1KTE5GQLY/NUEwPDJCOD
-5DRjszSLlGTLFEPTFEtTk7SUNMNEi5Q0I5Nk0zQzJZDvCvPylaxMgM5MTAf7Oz0v
-saS0KFWplquTcQ4LAyMXAxsrEygCGbg4BWDRuuIbD8OKlAvcLLKcu49y5R15/eTh
-Wb9zzLyXHi+5xDE1dX25mmu4/LRtcis389SltTAXrlyQEV2u6eny5P8ugxc+h+cI
-vDW+9tY+NlOt9O3JwNtf5CXlvff+TxFhqDLULyhY8UHkb9Dll0wubWsqE9bkXFxr
-a+2uK+b+8ss02UrWqJxnzL4mZ6YZHTuUcGpG2q41ExmM5u1f5zJjinzBvQn+Fnde
-c3ov434/fc9H5rCr655rf9/slSIsb5f79pqa16/jplekvPynBG1KtClYz7xkMzNj
-9Ir1yz6+8SqUfFVWtPLp+25/FsmTn9yv/nfq+P/1s+5FF5n0eKbyzhVvqhUX7/nc
-tLDLJvmle2TMmYgZjtvtPPd+2PTI7NgBQQ7JU+sKg9R/2rz/F7Wcp+uQYuTD4D9O
-zu9W7Tu8YPtOgQ2n5nyuW/DWVVKyQu2IyBKLt+f2b/ox2/TB2+xpk18c+tFt+m7l
-7KJf73KsAqSsowO7zZPs3FVnOvzrXXTp5Z9/xvZvtD3e90rPmZhTlOl16jCzOH+F
-uFD7ifK5AA==
-=GJWT
+owFVkn1MFEcYxvnw8xA1YtO0AYFtkHjaY26/ZhcNirRAFGtRoXpUrzO7s8cCd3vu
+HcJJKFZrU8G01EswVWMMhqg1jW2JIFIgpcTY2tgK0QpWCyVWUbSghQrW0F1C0/rf
+7M7vfd73eZ+pjgwPsYR2nLlUVueytodeGsAhOcq3g2UU1uQAlVxGSUUq8fjNkwe5
+CZVMFZIARj5iU7U4jyYTW4EvbopZRu0guk/VPAYFbNDGUeXLTNwsVlSPi+heXTW1
+KMABVgAASDJkeVYRZECzgBd5iUWKhCFGHA9pJNGGZL7m8z/XlZrUdKqy8TeNTU1P
+Ww1Xp5p8aprJF09eiATbZSLRQBZZogiCImOREIWWiQwkDIAJ+og+Zcmn6mpxqTmt
+m+iFRcSpa9qkZcmvmoCdZWgoCoCjjXmQL98owUgkUIKQt2NaUiRF5ACBCoIMEJHC
+MZjmJFqQeEG2IzsPCRYV3s4xIlAUTlRkAUBMJA4jO8NDyRhMpBUgCDQWBWgKySzD
+QWDo8Dwt2pEEIE2LEhYEmVdomiDWbhjwke0ejUqmGQABV25+6ztUiZhzm0ub8lZS
+UmJz6YR4jIR0zRuwSZrbKPbqml+TtCKDyPf7vcmmeX/AS6h6o4Rg55SYE6se2Yju
+/9naDfT5xdgFYRlFSr2qTpyqSXCQN+MFZh+yw+hBEOIJ5jADRSzQQDAjxwIjGusg
+xoGjMasomBiJ0ZhmRJ5DsgihLBIkMazESP/ZFY05kWsyNJcH+Yt1QpXvC4ueFhJq
+CZkxPcx8vCGW2fP/fdGxyfMmVgnbGhvvxN1K7LizfcsvSSuO1+9tO3z0akRgs1hX
+OTpxmXtRy369cdHEC5uu2fvWw8Fc56fVTbC6c/Qw1dk/Z1ur9WRNoOon689HVnWU
+nTtWn/hXwq5Zv2b/MVc8cfCDqKthwYLBe3kXC6Kylo9vmtlJJ9U0B1c0abWZX+90
+1FU/fbtFke/FX8hZ89Lck+25jaTw0cZXds/Y2Z1wEaVUZVdseZCCsobDElc+8bct
+jDjX1b86+738zybcMbeC/X8PjN7tZtIfFEXWvNW6IXrienPdgTPi41WRy8eohtK8
+G59oHx8dahhqq2oZa7L1vlPhuZL7Q008qfw+v/1BRQUpO1a4ftSyuDbuyO/Pbjw8
+aLXY+obRee/78Qdzrsed/66yY/iAe12verOh+eXfimedPh+i9nxz6r5nwZJHjnF3
+37uO3Nv9CZFrel6b97BLi926eMSR+iRrnXP5hQ0Qd+51dN+NvMnGXBtZ0lDeN5Zy
+8/SzLx+Hs0vrNweFL/bk3EJR1t6gJQjHM3wZG3ffi4jFh5r+XHkqITwpds7+iEou
+quXqUUfC9DHb4CKeHL984NVA3lflQ7f35dcen585s0eOmdZ61oUCCwe277K+kVdw
+butIWebIQFd46Ym0vKXUm9cKDlWU+D+vde3dGD1uSQWJ8cidYXX8GJz94cj42SsL
+Pmpbm75n7dOshU059zNj/gE=
+=/60x
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -66,4 +80,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/siriux
 
 ==================================================================
-
